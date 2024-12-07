@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @Darshanikanta
 - 🔭 I’m interested in Data Science, Machine Learning, Artificial Intelligence, and Data Analysis.
 - 🌱 I’m currently learning AI and Machine Learning algorithms for building smart applications.
-- 💼 I’ve completed various projects such as Salary Prediction App, House Price Prediction App, and Customer Segmentation.
+- 💼 I’ve completed various projects such as QuickAnswer pro, FeedBack Analysis, and Netflix PowerBi dashboard.
 - 🤝 I’m looking to collaborate on Data Science and AI projects. Feel free to connect if you have interesting ideas or need help with data analysis or model building.
 - 💬 Ask me about Python, Numpy, Pandas, Matplotlib, Seaborn, Streamlit, scikit-learn, and Machine Learning.
 - 📫 How to reach me: You can connect with me via LinkedIn-https://www.linkedin.com/in/darshanikanta-behera-b0377b296/ or email- sunilkumarbehera279@gmail.com
